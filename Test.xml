@@ -1,0 +1,8 @@
+<BuildMap>
+	<VersionMap>
+		<Version id="*" env="test"/>
+	</VersionMap>
+	<Environments>
+		<Env name="test" />
+	</Environments>
+</BuildMap>
